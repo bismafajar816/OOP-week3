@@ -1,0 +1,7 @@
+D:\oop\week3\challenge2\challenge2\bin\Debug\challenge2.exe.config
+D:\oop\week3\challenge2\challenge2\bin\Debug\challenge2.exe
+D:\oop\week3\challenge2\challenge2\bin\Debug\challenge2.pdb
+D:\oop\week3\challenge2\challenge2\obj\Debug\challenge2.csproj.AssemblyReference.cache
+D:\oop\week3\challenge2\challenge2\obj\Debug\challenge2.csproj.CoreCompileInputs.cache
+D:\oop\week3\challenge2\challenge2\obj\Debug\challenge2.exe
+D:\oop\week3\challenge2\challenge2\obj\Debug\challenge2.pdb

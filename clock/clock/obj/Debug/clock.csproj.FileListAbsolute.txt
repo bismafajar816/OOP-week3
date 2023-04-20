@@ -1,0 +1,7 @@
+D:\oop\week3\clock\clock\bin\Debug\clock.exe.config
+D:\oop\week3\clock\clock\bin\Debug\clock.exe
+D:\oop\week3\clock\clock\bin\Debug\clock.pdb
+D:\oop\week3\clock\clock\obj\Debug\clock.csproj.AssemblyReference.cache
+D:\oop\week3\clock\clock\obj\Debug\clock.csproj.CoreCompileInputs.cache
+D:\oop\week3\clock\clock\obj\Debug\clock.exe
+D:\oop\week3\clock\clock\obj\Debug\clock.pdb
